@@ -1,11 +1,10 @@
 ---
 layout: default
-title: "Altair Visualizations"
+title: "Building Inventory Visualizations"
 ---
 
-# Altair Visualizations for Building Inventory Dataset
+# Visualizations for Building Inventory Dataset
 
-Welcome to the visualization project page! Below are the visualizations I created using Python, Altair, and Vega-Lite.
 
 ## Visualization 1: Building Types
 This bar chart shows the count of different building types in the dataset.
