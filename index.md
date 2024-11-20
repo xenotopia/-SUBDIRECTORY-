@@ -1,7 +1,3 @@
----
-title: "Building Inventory Visualizations"
----
-
 # Index of Visualizations for Building Inventory Dataset
 
 [The Data](https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_data/main/building_inventory.csv)
