@@ -1,1 +1,1 @@
-# homwork6
+# homework6
