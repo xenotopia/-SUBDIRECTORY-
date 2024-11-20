@@ -1,7 +1,3 @@
----
-title: "Building Inventory Visualizations"
----
-
 # Index of Visualizations for Building Inventory Dataset
 
 [The Data](https://xenotopia.github.io/homework6/data_link)  
