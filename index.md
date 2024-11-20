@@ -7,4 +7,4 @@ title: "Building Inventory Visualizations"
 
 [The Data](https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_data/main/building_inventory.csv)  
 [The Analysis](https://github.com/xenotopia/homework6/blob/main/Workbook.ipynb)
-
+[Results](https://xenotopia.github.io/homework6/Workbook.html)
