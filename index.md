@@ -13,5 +13,5 @@ This bar chart shows the count of different building types in the dataset.
 This scatter plot shows the relationship between building age and size.
 
 [The Data](https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_data/main/building_inventory.csv)  
-[The Analysis](https://github.com/xenotopia/altair-visualizations/blob/main/notebook/analysis.ipynb)
+[The Analysis](https://github.com/xenotopia/homework6/blob/main/Workbook.ipynb)
 
